@@ -24,7 +24,7 @@ move onto the next step.
 
 
 Section 2: Running the Code
-There are now 2 options for how to precede and the choice is yours to make.
+\nThere are now 2 options for how to precede and the choice is yours to make.
 
 
 Option 1:
